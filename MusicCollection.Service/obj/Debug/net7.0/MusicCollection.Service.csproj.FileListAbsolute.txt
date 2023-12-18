@@ -1,0 +1,17 @@
+D:\Programming\projects\MusicCollection\MusicCollection.Service\bin\Debug\net7.0\MusicCollection.Service.deps.json
+D:\Programming\projects\MusicCollection\MusicCollection.Service\bin\Debug\net7.0\MusicCollection.Service.dll
+D:\Programming\projects\MusicCollection\MusicCollection.Service\bin\Debug\net7.0\MusicCollection.Service.pdb
+D:\Programming\projects\MusicCollection\MusicCollection.Service\bin\Debug\net7.0\MusicCollection.DAL.dll
+D:\Programming\projects\MusicCollection\MusicCollection.Service\bin\Debug\net7.0\MusicCollection.Domain.dll
+D:\Programming\projects\MusicCollection\MusicCollection.Service\bin\Debug\net7.0\MusicCollection.DAL.pdb
+D:\Programming\projects\MusicCollection\MusicCollection.Service\bin\Debug\net7.0\MusicCollection.Domain.pdb
+D:\Programming\projects\MusicCollection\MusicCollection.Service\obj\Debug\net7.0\MusicCollection.Service.csproj.AssemblyReference.cache
+D:\Programming\projects\MusicCollection\MusicCollection.Service\obj\Debug\net7.0\MusicCollection.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\projects\MusicCollection\MusicCollection.Service\obj\Debug\net7.0\MusicCollection.Service.AssemblyInfoInputs.cache
+D:\Programming\projects\MusicCollection\MusicCollection.Service\obj\Debug\net7.0\MusicCollection.Service.AssemblyInfo.cs
+D:\Programming\projects\MusicCollection\MusicCollection.Service\obj\Debug\net7.0\MusicCollection.Service.csproj.CoreCompileInputs.cache
+D:\Programming\projects\MusicCollection\MusicCollection.Service\obj\Debug\net7.0\MusicCollection.Service.csproj.CopyComplete
+D:\Programming\projects\MusicCollection\MusicCollection.Service\obj\Debug\net7.0\MusicCollection.Service.dll
+D:\Programming\projects\MusicCollection\MusicCollection.Service\obj\Debug\net7.0\refint\MusicCollection.Service.dll
+D:\Programming\projects\MusicCollection\MusicCollection.Service\obj\Debug\net7.0\MusicCollection.Service.pdb
+D:\Programming\projects\MusicCollection\MusicCollection.Service\obj\Debug\net7.0\ref\MusicCollection.Service.dll

@@ -1,0 +1,11 @@
+D:\Programming\projects\MusicCollection\MusicCollection.Domain\bin\Debug\net7.0\MusicCollection.Domain.deps.json
+D:\Programming\projects\MusicCollection\MusicCollection.Domain\bin\Debug\net7.0\MusicCollection.Domain.dll
+D:\Programming\projects\MusicCollection\MusicCollection.Domain\bin\Debug\net7.0\MusicCollection.Domain.pdb
+D:\Programming\projects\MusicCollection\MusicCollection.Domain\obj\Debug\net7.0\MusicCollection.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\projects\MusicCollection\MusicCollection.Domain\obj\Debug\net7.0\MusicCollection.Domain.AssemblyInfoInputs.cache
+D:\Programming\projects\MusicCollection\MusicCollection.Domain\obj\Debug\net7.0\MusicCollection.Domain.AssemblyInfo.cs
+D:\Programming\projects\MusicCollection\MusicCollection.Domain\obj\Debug\net7.0\MusicCollection.Domain.csproj.CoreCompileInputs.cache
+D:\Programming\projects\MusicCollection\MusicCollection.Domain\obj\Debug\net7.0\MusicCollection.Domain.dll
+D:\Programming\projects\MusicCollection\MusicCollection.Domain\obj\Debug\net7.0\refint\MusicCollection.Domain.dll
+D:\Programming\projects\MusicCollection\MusicCollection.Domain\obj\Debug\net7.0\MusicCollection.Domain.pdb
+D:\Programming\projects\MusicCollection\MusicCollection.Domain\obj\Debug\net7.0\ref\MusicCollection.Domain.dll

@@ -1,0 +1,15 @@
+D:\Programming\projects\MusicCollection\MusicCollection.DAL\bin\Debug\net7.0\MusicCollection.DAL.deps.json
+D:\Programming\projects\MusicCollection\MusicCollection.DAL\bin\Debug\net7.0\MusicCollection.DAL.dll
+D:\Programming\projects\MusicCollection\MusicCollection.DAL\bin\Debug\net7.0\MusicCollection.DAL.pdb
+D:\Programming\projects\MusicCollection\MusicCollection.DAL\bin\Debug\net7.0\MusicCollection.Domain.dll
+D:\Programming\projects\MusicCollection\MusicCollection.DAL\bin\Debug\net7.0\MusicCollection.Domain.pdb
+D:\Programming\projects\MusicCollection\MusicCollection.DAL\obj\Debug\net7.0\MusicCollection.DAL.csproj.AssemblyReference.cache
+D:\Programming\projects\MusicCollection\MusicCollection.DAL\obj\Debug\net7.0\MusicCollection.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\projects\MusicCollection\MusicCollection.DAL\obj\Debug\net7.0\MusicCollection.DAL.AssemblyInfoInputs.cache
+D:\Programming\projects\MusicCollection\MusicCollection.DAL\obj\Debug\net7.0\MusicCollection.DAL.AssemblyInfo.cs
+D:\Programming\projects\MusicCollection\MusicCollection.DAL\obj\Debug\net7.0\MusicCollection.DAL.csproj.CoreCompileInputs.cache
+D:\Programming\projects\MusicCollection\MusicCollection.DAL\obj\Debug\net7.0\MusicCollection.DAL.csproj.CopyComplete
+D:\Programming\projects\MusicCollection\MusicCollection.DAL\obj\Debug\net7.0\MusicCollection.DAL.dll
+D:\Programming\projects\MusicCollection\MusicCollection.DAL\obj\Debug\net7.0\refint\MusicCollection.DAL.dll
+D:\Programming\projects\MusicCollection\MusicCollection.DAL\obj\Debug\net7.0\MusicCollection.DAL.pdb
+D:\Programming\projects\MusicCollection\MusicCollection.DAL\obj\Debug\net7.0\ref\MusicCollection.DAL.dll
